@@ -3,7 +3,7 @@
 # Styles de citation pour RAM & DM 
 Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
 
-⚠️ Clic droit sur le lien > Enregister le lien sous...
+⚠️ ** Clic droit > Enregister le lien sous... **
 
 ## Recherche et Applications en Marketing (RAM)
 - [Recherche et Applications en Marketing (FR)](http://bit.do/ram-fr)
@@ -11,8 +11,10 @@ Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
 
 #### Exemple
 > Citation unique (Li et Xie, 2019)
-Bibliographie
-Li Y et Xie Y (2019) Is a Picture Worth a Thousand Words? An Empirical Study of Image Content and Social Media Engagement. Journal of Marketing Research: 
+> 
+> Bibliographie
+> 
+> Godes D and Mayzlin D (2004) Se servir des conversations en ligne pour étudier le bouche-à-oreille. Recherche et Applications en marketing 19(4): 89–111.
 
 ## Décisions Marketing (DM)
 - [Décisions Marketing (DM)](http://bit.do/dm-fr)
