@@ -20,12 +20,11 @@ A utiliser avec un logiciel de gestion des références (e.g., Mendeley, Zotero)
 ## Décisions Marketing (DM)
 - [Décisions Marketing (DM)](http://bit.do/dm-fr)
 
+
 ##  Instructions d'installation
 ### Mendeley
 - In Mendeley Desktop, go to the "View" menu, "Citation Style", "More Styles..."
 - Drag and drop the downloaded style onto the style list
-
-You can also use Mendeley's own version of this CSL Editor at http://csl.mendeley.com, where Mendeley will host your style, install it directly to your computer and help you share the style with other CSL users.
 
 ### Zotero
 - Go to "Preferences...", "Cite", "Styles", click the "+" button and select the downloaded style.
