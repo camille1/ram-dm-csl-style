@@ -2,19 +2,20 @@
 
 # Styles de citation pour RAM & DM 
 Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
+A utiliser avec un logiciel de gestion des références (e.g., Mendeley, Zotero).
 
-⚠️ ** Clic droit > Enregister le lien sous... **
+⚠️ **Clic droit > Enregister le lien sous...**
 
 ## Recherche et Applications en Marketing (RAM)
 - [Recherche et Applications en Marketing (FR)](http://bit.do/ram-fr)
 - [Recherche et Applications en Marketing (EN)](http://bit.do/ram-en)
 
 #### Exemple
-> Citation unique (Li et Xie, 2019)
+> Citation (Godes et Mayzlin, 2004)
 > 
 > Bibliographie
 > 
-> Godes D and Mayzlin D (2004) Se servir des conversations en ligne pour étudier le bouche-à-oreille. Recherche et Applications en marketing 19(4): 89–111.
+> Godes D et Mayzlin D (2004) Se servir des conversations en ligne pour étudier le bouche-à-oreille. Recherche et Applications en marketing 19(4): 89–111.
 
 ## Décisions Marketing (DM)
 - [Décisions Marketing (DM)](http://bit.do/dm-fr)
