@@ -1,8 +1,12 @@
 # Styles de citation pour RAM & DM 
-![alt text](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
+![AFM Marketing](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
 
-###Here you can find citation styles (.csl) for RAM &amp; DM.
-![RAM](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20RAM_V5.png?itok=4RzNIa_Z)
+## Recherche et Applications en Marketing (RAM)
+![Recherche et Applications en Marketing (RAM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20RAM_V5.png)
+- lien (FR)
+
+## Décisions Marketing (DM)
+![Décisions Marketing (DM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20DM.png)
 
 ##  Instructions d'installation
 ### Mendeley
@@ -10,7 +14,6 @@
 - Drag and drop the downloaded style onto the style list
 
 You can also use Mendeley's own version of this CSL Editor at http://csl.mendeley.com, where Mendeley will host your style, install it directly to your computer and help you share the style with other CSL users.
-
 
 ### Zotero
 - Go to "Preferences...", "Cite", "Styles", click the "+" button and select the downloaded style.
