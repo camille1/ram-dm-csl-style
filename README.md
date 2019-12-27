@@ -2,7 +2,7 @@
 ![alt text](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
 
 ###Here you can find citation styles (.csl) for RAM &amp; DM.
-
+![RAM](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20RAM_V5.png?itok=4RzNIa_Z)
 
 ##  Instructions d'installation
 ### Mendeley
