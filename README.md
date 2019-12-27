@@ -2,11 +2,11 @@
 ![AFM Marketing](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
 
 ## Recherche et Applications en Marketing (RAM)
-![Recherche et Applications en Marketing (RAM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20RAM_V5.png)
-- lien (FR)
+- [Recherche et Applications en Marketing (FR)](https://github.com/camille1/ram-dm-csl-style/blob/master/recherche-et-applications-en-marketing-fr.csl)
+- [Recherche et Applications en Marketing (EN)](https://github.com/camille1/ram-dm-csl-style/blob/master/recherche-et-applications-en-marketing-fr.csl)
 
 ## Décisions Marketing (DM)
-![Décisions Marketing (DM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20DM.png)
+- [Décisions Marketing (DM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20DM)
 
 ##  Instructions d'installation
 ### Mendeley
