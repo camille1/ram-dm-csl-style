@@ -1,12 +1,14 @@
-# Styles de citation pour RAM & DM 
 ![AFM Marketing](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
 
+# Styles de citation pour RAM & DM 
+Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
+
 ## Recherche et Applications en Marketing (RAM)
-- [Recherche et Applications en Marketing (FR)](https://github.com/camille1/ram-dm-csl-style/blob/master/recherche-et-applications-en-marketing-fr.csl)
-- [Recherche et Applications en Marketing (EN)](https://github.com/camille1/ram-dm-csl-style/blob/master/recherche-et-applications-en-marketing-fr.csl)
+- [Recherche et Applications en Marketing (FR)](http://bit.do/ram-fr)
+- [Recherche et Applications en Marketing (EN)](http://bit.do/ram-en)
 
 ## Décisions Marketing (DM)
-- [Décisions Marketing (DM)](https://www.afm-marketing.org/sites/default/files/styles/large/public/Image%20Revue%20DM)
+- [Décisions Marketing (DM)](http://bit.do/dm-fr)
 
 ##  Instructions d'installation
 ### Mendeley
