@@ -2,6 +2,7 @@
 
 # Styles de citation pour RAM & DM 
 Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
+Clic droit sur le lien > Enregister le lien sous...
 
 ## Recherche et Applications en Marketing (RAM)
 - [Recherche et Applications en Marketing (FR)](http://bit.do/ram-fr)
