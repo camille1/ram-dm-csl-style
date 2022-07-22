@@ -1,4 +1,4 @@
-![AFM Marketing](https://www.afm-marketing.org/sites/default/files/Logo-AFM_0.png)
+![AFM Marketing](https://www.afm-marketing.org/plugins/widcard/system/userdata/CorporateLogo.png)
 
 # Styles de citation pour RAM & DM 
 Styles de citation pour mettre en forme une bibliographie au format RAM ou DM.
